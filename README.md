@@ -37,10 +37,6 @@ Installation
 =================
 To run this project locally:
 
-Clone the repository:
-=======================
-git clone https://github.com/yourusername/your-repo-name.git
-
 Navigate to the project directory:
 ===================================
 cd your-repo-name
